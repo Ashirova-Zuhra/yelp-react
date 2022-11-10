@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(87, 231, 116);
+}
+
+.input {
+    width: 80.5%;
+}
+
+.create {
+    background-color: #00ffb3;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    margin-right: 90px;
+    margin-top: 180px;
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(255, 5, 5);
+    height: 100px;
+    width: 160px;
+    border-radius: 5%;
+}

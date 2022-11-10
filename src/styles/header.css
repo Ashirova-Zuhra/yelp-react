@@ -1,0 +1,19 @@
+.signout {
+    background-color: #12f3e4;
+    border: none;
+    color: rgb(247, 8, 8);
+    width: 160px;;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 50px;
+}
+.text{
+    color: rgb(231, 56, 33);
+    text-align: center;
+}
+.navbar{
+    background: rgb(3, 69, 14);
+}
