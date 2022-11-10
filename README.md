@@ -13,7 +13,7 @@ Welcome to my project. It is My Yelp project.
 ## Authors
 
 Github
-- [@Soburjon19](https://github.com/Soburjon19/)
+- [@Ashirova-Zuhra](https://github.com/Ashirova-Zuhra/)
 
 ## Deployment
 
